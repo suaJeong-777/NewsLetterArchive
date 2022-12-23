@@ -1,6 +1,7 @@
 # NewsLetterArchive
+#개인공부용이라 틀린 내용이 있을 수 있습니다
 
-> 기술트렌드 정리
+> 기술 블로그 내용 요약 
 - 주요 활동 : 기술블로그 및 뉴스레터 요약정리
 - 참고 사이트 : 
   - https://techblog.woowahan.com/10182/
